@@ -3,7 +3,7 @@ outfit "Solar Drive, Small"
 	cost 21600
 	thumbnail "outfit/solar sail coalition small"
 	"mass" 1
-	"outfit space" -7
+	"outfit space" -4
 	"engine capacity" -7
 	"turning energy" 0.00833
 	"turn" 18.66
@@ -19,7 +19,7 @@ outfit "Solar Drive, Large"
 	cost 64800
 	thumbnail "outfit/solar sail coalition medium"
 	"mass" 3
-	"outfit space" -20
+	"outfit space" -10
 	"engine capacity" -20
 	"turning energy" 0.03333333
 	"turn" 74.66
@@ -36,7 +36,7 @@ outfit "Solar Drive, Huge"
 	cost 194400
 	thumbnail "outfit/solar sail coalition large"
 	"mass" 9
-	"outfit space" -60
+	"outfit space" -30
 	"engine capacity" -60
 	"turning energy" 0.13333
 	"turn" 298.66
@@ -53,7 +53,7 @@ outfit "Solar Drive, Small, Front"
 	cost 21600
 	thumbnail "outfit/solar sail coalition small front"
 	"mass" 1
-	"outfit space" -7
+	"outfit space" -4
 	"weapon capacity" -7
 #	"gun ports" -1
 	"turning energy" 0.00833
@@ -70,7 +70,7 @@ outfit "Solar Drive, Large, Front"
 	cost 64800
 	thumbnail "outfit/solar sail coalition large front"
 	"mass" 3
-	"outfit space" -20
+	"outfit space" -10
 	"weapon capacity" -20
 #	"gun ports" -1
 	"turning energy" 0.03333333
@@ -88,7 +88,7 @@ outfit "Solar Drive, Huge, Front"
 	cost 194400
 	thumbnail "outfit/solar sail coalition huge front"
 	"mass" 9
-	"outfit space" -60
+	"outfit space" -30
 	"weapon capacity" -60
 #	"gun ports" -1
 	"turning energy" 0.13333333

@@ -3,7 +3,7 @@ outfit "Solar Sail, Small"
 	cost 3000
 	thumbnail "outfit/solar sail small"
 	"mass" 1.5
-	"outfit space" -6
+	"outfit space" -3
 	"engine capacity" -6
 	"turning energy" 0.0083333333
 	"turn" 14
@@ -13,14 +13,14 @@ outfit "Solar Sail, Small"
 	"reverse thrusting heat" 0.03625
 	"turning heat" 0.0375
 	description `Solar sails were first devised in the earliest days of stellar exploration, during the 20th-21st centuries, as a way to "sail" through space for long periods without needing to install engines or fuel. Its design hasn't been improved upon much since the invention of the Hyperdrive, except for newer lightweight materials. It's still used rarely by certain luxury cruise ships and some environmentalists, or even people on a strict budget. Now it's simply less practical and slow for most purposes, as it was built for probes that are as lightweight as possible, and not manned ships such as the ones we have today.`
-	description `	Solar sails are weaker than Ion, but is of little weight and uses only a tiny amount of energy, as the only energy it requires is the motors to fold in parts of the sail to turn.`
+	description `	Solar sails are weaker than Ion, but is of little weight and only ever uses energy to rotate sails in when turning.`
 
 outfit "Solar Sail, Large"
 	category "Engines"
 	cost 9000
 	thumbnail "outfit/solar sail large"
 	"mass" 6
-	"outfit space" -18
+	"outfit space" -9
 	"engine capacity" -18
 	"turning energy" 0.03333333
 	"turn" 56
@@ -30,8 +30,7 @@ outfit "Solar Sail, Large"
 	"reverse thrusting heat" 0.225
 	"turning heat" 0.225
 	description "This is a solar sail with four larger sheets instead of two, and gets moderate. It's mostly used on luxury cruise ships or some freighter captains. Although it's flashy, its actual pushing force leaves more to be desired, as it leaves pilots vulnerable to pirates if they can't escape fast enough.
-	description `	Solar sails are weaker than Ion, but is of little weight and uses only a tiny amount of energy, as the only energy it requires is the motors to fold in parts of the sail to turn.`
-
+	description `	Solar sails are weaker than Ion, but is of little weight and only ever uses energy to rotate sails in when turning.`
 
 
 outfit "Solar Sail, Huge"
@@ -39,7 +38,7 @@ outfit "Solar Sail, Huge"
 	cost 36000
 	thumbnail "outfit/solar sail huge"
 	"mass" 14
-	"outfit space" -54
+	"outfit space" -27
 	"engine capacity" -54
 	"turning energy" 0.13333333
 	"turn" 240
@@ -48,9 +47,9 @@ outfit "Solar Sail, Huge"
 	"reverse thrust" 5.6
 	"reverse thrusting heat" 1.35
 	"turning heat" 1.35
-	description "This is the largest commercially-sold solar sail available in known space. It looks ridiculous on anything smaller than a medium warship, letting you be seen from hundreds of kilometers away, but it does its job more efficiently than any one smaller. It can collect enough force to move a decently large ship at just enough speed to escape pirates."
-#I say kilometers because I assume that the imperial system died out long ago
-	description `	Solar sails are weaker than Ion, but is of little weight and uses only a tiny amount of energy, as the only energy it requires is the motors to fold in parts of the sail to turn.`
+	description "This is the largest commercially-sold solar sail available in known space. It looks ridiculous on anything smaller than a medium warship, letting you be seen from hundreds of kilometers away, but it does its job more efficiently than any one smaller. It can collect enough force to move a decently large ship at just enough speed to jump away from pirates."
+#I say kilometers because I assume that the imperial system died out long ago.
+	description `	Solar sails are weaker than Ion, but is of little weight and only ever uses energy to rotate sails in when turning.`
 
 
 outfit "Solar Sail, Small, Front"
@@ -58,7 +57,7 @@ outfit "Solar Sail, Small, Front"
 	cost 3000
 	thumbnail "outfit/solar sail small front"
 	"mass" 1.5
-	"outfit space" -6
+	"outfit space" -3
 	"weapon capacity" -6
 	"turning energy" 0.0083333333
 	"turn" 7
@@ -68,7 +67,7 @@ outfit "Solar Sail, Small, Front"
 	"reverse thrusting heat" 0.075
 	"turning heat" 0.0375
 	description `This solar sail is mounted on the front rather than the back of a ship. It's as capable of reverse thrust as the back-mounted one is at forward thrust, but its forward thrust, and its steering capabilities, is reduced to half.`
-	description `	Solar sails are weaker than Ion, but is of little weight and uses only a tiny amount of energy, as the only energy it requires is the motors to fold in parts of the sail to turn.`
+	description `	Solar sails are weaker than Ion, but is of little weight and only ever uses energy to rotate sails in when turning.`
 
 
 outfit "Solar Sail, Large, Front"
@@ -76,7 +75,7 @@ outfit "Solar Sail, Large, Front"
 	cost 9000
 	thumbnail "outfit/solar sail large front"
 	"mass" 6
-	"outfit space" -18
+	"outfit space" -9
 	"weapon capacity" -18
 	"turning energy" 0.03333333
 	"turn" 28
@@ -86,7 +85,7 @@ outfit "Solar Sail, Large, Front"
 	"reverse thrusting heat" 0.45
 	"turning heat" 0.225
 	description "These front-mounted solar sails are more popular than ones mounted on the back. It's often used by freighter or transport captains who have run out of engine space and have unused weapons space, as a way to get benefit from that extra space."
-	description `	Solar sails are weaker than Ion, but is of little weight and uses only a tiny amount of energy, as the only energy it requires is the motors to fold in parts of the sail to turn.`
+	description `	Solar sails are weaker than Ion, but is of little weight and only ever uses energy to rotate sails in when turning.`
 
 
 
@@ -95,7 +94,7 @@ outfit "Solar Sail, Huge, Front"
 	cost 36000
 	thumbnail "outfit/solar sail huge front"
 	"mass" 14
-	"outfit space" -54
+	"outfit space" -27
 	"weapon capacity" -54
 	"turning energy" 0.13333333
 	"turn" 120
@@ -105,4 +104,4 @@ outfit "Solar Sail, Huge, Front"
 	"reverse thrusting heat" 2.7
 	"turning heat" 1.35
 	description "If it were not for a series of cameras mounted on various structural parts of this sail, most ships' view would be significantly blocked."
-	description `	Solar sails are weaker than Ion, but is of little weight and uses only a tiny amount of energy, as the only energy it requires is the motors to fold in parts of the sail to turn.`
+	description `	Solar sails are weaker than Ion, but is of little weight and only ever uses energy to rotate sails in when turning.`
