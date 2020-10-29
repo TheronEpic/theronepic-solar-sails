@@ -2,12 +2,17 @@
 outfitter "Basic Outfits"
 	"Solar Sail, Small"
 	"Solar Sail, Small, Front"
+	"Solar Sail, Large, Front"
+	"Solar Sail, Large"
+	"KP-3 Photovoltaic Unit"
 
 outfitter "Common Outfits"
 	"Solar Sail, Small"
 	"Solar Sail, Large"
 	"Solar Sail, Small, Front"
 	"Solar Sail, Large, Front"
+	"KP-3 Photovoltaic Unit"
+	"KPM-6 Photovoltaic Panel"
 
 outfitter "Syndicate Basics"
 	"Solar Sail, Small"

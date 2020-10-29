@@ -61,11 +61,11 @@ ship "Sailor"
 	description "Poking around game files, huh? I don't blame you."
 
 shipyard human
-#	"Sailor"
-#	"Sailboat"
+	"Sailor"
+	"Sailboat"
 
 outfitter human
-#	"Sailor's Sail"
+	"Sailor's Sail"
 
 ship "Sailboat"
 	sprite ship/sailboat_sprite
@@ -100,7 +100,7 @@ outfit "Sailor's Sail"
 	thumbnail "outfit/sailboat_sail"
 	"mass" 30
 	"weapon capacity" -60
-	"outfit space" -120
+	"outfit space" -60
 	"engine capacity" -60
 	"turn" 800
 	"thrust" 40

@@ -1,3 +1,7 @@
+
+#	"turn" 11.2
+#	"thrust" 0.56
+
 outfit "Solar Sail, Small"
 	category "Engines"
 	cost 3000
