@@ -4,7 +4,7 @@ outfit "KP-3 Photovoltaic Unit"
 	thumbnail "outfit/tinier photovoltaic"
 	"mass" 1.5
 	"outfit space" -1
-	"solar collection" .0425
+	"solar collection" .046
 	description "This teeny tiny set of solar panels can be put on your ship when you don't have room for anything else, or just as an safeguard power source for certain ships running on otherwise purely battery power. Though, its use is more common on homes than in space. Because of this, it's very common to find."
 	description "Their low power output isn't all that desirable, but its often used with solar sails because solar sails require such little energy that often only 1 is enough to power its turning motors."
 
