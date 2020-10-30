@@ -2,32 +2,32 @@ outfit "Solar Drive, Small"
 	category "Engines"
 	cost 21600
 	thumbnail "outfit/solar drive small"
-	"mass" 1
-	"outfit space" -4
-	"engine capacity" -7
-	"turning energy" 0.00833
-	"turn" 18.66
-	"thrust" 0.933333
-	"thrusting heat" 0.15
-	"reverse thrust" 0.46666
-	"reverse thrusting heat" 0.075
-	"turning heat" 0.075
-	description `The Coalition, alongside its sets of thrust modules, has also developed the technology of solar sails, much like the ones in Human space. Everything about it is more efficient, from the featherweight materials to the more reflective material sheets, and its steering motors are even less draining.`
+	"mass" 3
+	"outfit space" -7
+	"engine capacity" -14
+	"turning energy" 0.015
+	"turn" 44.784
+	"thrust" 1.792
+	"thrusting heat" 0.6
+	"reverse thrust" 0.896
+	"reverse thrusting heat" 0.6
+	"turning heat" 0.15
+	description `The Coalition, alongside its sets of thrust modules, has also developed the involatile technology of solar sails, much like the ones in Human space. Everything about it is more efficient, from the featherweight materials to the more reflective material sheets, and its steering motors are even less draining.`
 
 outfit "Solar Drive, Large"
 	category "Engines"
 	cost 64800
 	thumbnail "outfit/solar drive large"
-	"mass" 3
-	"outfit space" -10
-	"engine capacity" -20
-	"turning energy" 0.03333333
-	"turn" 74.66
-	"thrust" 3.73333
-	"thrusting heat" 0.45
-	"reverse thrust" 1.86666
-	"reverse thrusting heat" 0.225
-	"turning heat" 0.225
+	"mass" 8
+	"outfit space" -20
+	"engine capacity" -40
+	"turning energy" 0.06
+	"turn" 179.136
+	"thrust" 7.168
+	"thrusting heat" 0.9
+	"reverse thrust" 3.584
+	"reverse thrusting heat" 0.45
+	"turning heat" 0.45
 	description `This larger version of the Solar Drive is the driving force for a significant portion of the Coalition economy, being about large enough for most small to medium Coalition ships.`
 
 
@@ -35,14 +35,14 @@ outfit "Solar Drive, Huge"
 	category "Engines"
 	cost 194400
 	thumbnail "outfit/solar drive huge"
-	"mass" 9
-	"outfit space" -30
-	"engine capacity" -60
-	"turning energy" 0.13333
-	"turn" 298.66
-	"thrust" 14.93333
+	"mass" 24
+	"outfit space" -60
+	"engine capacity" -120
+	"turning energy" 0.24
+	"turn" 716.544
+	"thrust" 28.672
 	"thrusting heat" 3.7
-	"reverse thrust" 7.466666
+	"reverse thrust" 14.336
 	"reverse thrusting heat" 1.875
 	"turning heat" 1.85
 	description `For the largest ships in the Coalition, this is sometimes used more favorably than the Large Thrust and Large Steering Modules.`
@@ -52,32 +52,32 @@ outfit "Solar Drive, Small, Front"
 	category "Engines"
 	cost 21600
 	thumbnail "outfit/solar drive small front"
-	"mass" 1
-	"outfit space" -4
-	"weapon capacity" -7
+	"mass" 3
+	"outfit space" -7
+	"weapon capacity" -14
 #	"gun ports" -1
-	"turning energy" 0.00833
-	"turn" 9.33
-	"thrust" 0.46666
+	"turning energy" 0.015
+	"turn" 22.392
+	"thrust" 0.896
 	"thrusting heat" 0.15
-	"reverse thrust" 0.933333
+	"reverse thrust" 1.792
 	"reverse thrusting heat" 0.15
-	"turning heat" 0.075
-	description `Since only the Heilarchs are allowed to use weapons, the front parts of Coalition ships go widely unused. Solar Drives can be installed to add speed, that tug instead of pushing.`
+	"turning heat" 0.15
+	description `Since only the Heilarchs are allowed to use weapons, the front parts of Coalition ships go widely unused. Solar Drives can be installed in these places, that tug instead of pushing.`
 
 outfit "Solar Drive, Large, Front"
 	category "Engines"
 	cost 64800
 	thumbnail "outfit/solar drive large front"
-	"mass" 3
-	"outfit space" -10
-	"weapon capacity" -20
+	"mass" 8
+	"outfit space" -20
+	"weapon capacity" -40
 #	"gun ports" -1
-	"turning energy" 0.03333333
-	"turn" 37.32
-	"thrust" 1.86666
+	"turning energy" 0.06
+	"turn" 89.568
+	"thrust" 3.584
 	"thrusting heat" 0.45
-	"reverse thrust" 3.73333
+	"reverse thrust" 7.168
 	"reverse thrusting heat" 0.45
 	"turning heat" 0.225
 	description `While not as efficient at producing forward thrust as when used in the engine areas of a ship, front-mounted Solar Drives are important for those who do not use weapons.`
@@ -87,15 +87,15 @@ outfit "Solar Drive, Huge, Front"
 	category "Engines"
 	cost 194400
 	thumbnail "outfit/solar drive huge front"
-	"mass" 9
-	"outfit space" -30
-	"weapon capacity" -60
+	"mass" 24
+	"outfit space" -60
+	"weapon capacity" -120
 #	"gun ports" -1
-	"turning energy" 0.13333333
-	"turn" 149.28
-	"thrust" 7.466666
+	"turning energy" 0.24
+	"turn" 358.272
+	"thrust" 14.336
 	"thrusting heat" 3.7
-	"reverse thrust" 14.93333
+	"reverse thrust" 28.672
 	"reverse thrusting heat" 3.7
 	"turning heat" 1.85
 	description `When Coalition citizens using Solar Drives prepare to enter a ship bay or to land on a planet, solar sails are collapsed and retracted, and Coalition drones are deployed to act as the ship's thrusters and guide the ship.`

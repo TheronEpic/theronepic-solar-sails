@@ -7,8 +7,7 @@ ship "Arach Courier"
 		"Small Thrust Module" 2
 		"Small Steering Module" 2
 		"Hyperdrive"
-		"Solar Drive, Large, Front"
-		"Solar Drive, Small, Front"
+		"Solar Drive, Small, Front" 2
 
 
 ship "Arach Freighter"
@@ -23,8 +22,7 @@ ship "Arach Freighter"
 		"Large Steering Module"
 		"Small Steering Module" 2
 		"Hyperdrive"
-		"Solar Drive, Small, Front" 1
-		"Solar Drive, Huge, Front" 2
+		"Solar Drive, Huge, Front"
 
 ship "Arach Hulk"
 	outfits
@@ -39,9 +37,8 @@ ship "Arach Hulk"
 		"Large Steering Module" 2
 		"Small Steering Module" 2
 		"Hyperdrive"
-		"Solar Drive, Small, Front"
-		"Solar Drive, Large, Front"
-		"Solar Drive, Huge, Front" 3
+		"Solar Drive, Large, Front" 2
+		"Solar Drive, Huge, Front"
 
 ship "Arach Spindle"
 	outfits
@@ -57,8 +54,8 @@ ship "Arach Spindle"
 		"Large Steering Module" 2
 		"Small Steering Module" 1
 		"Hyperdrive"
-		"Solar Drive, Small, Front" 2
-		"Solar Drive, Huge, Front" 2
+		"Solar Drive, Small, Front"
+		"Solar Drive, Huge, Front"
 
 ship "Arach Transport"
 	outfits
@@ -71,9 +68,8 @@ ship "Arach Transport"
 		"Large Steering Module"
 		"Small Steering Module"
 		"Hyperdrive"
-		"Solar Drive, Small, Front" 2
-		"Solar Drive, Large, Front"
-		"Solar Drive, Huge, Front"
+		"Solar Drive, Small, Front"
+		"Solar Drive, Large, Front" 2
 
 ship "Kimek Briar"
 	outfits
@@ -86,8 +82,7 @@ ship "Kimek Briar"
 		"Large Steering Module"
 		"Small Steering Module"
 		"Hyperdrive"
-		"Solar Drive, Small, Front" 2
-		"Solar Drive, Huge, Front"
+		"Solar Drive, Large, Front" 2
 
 ship "Kimek Spire"
 	outfits
@@ -101,8 +96,8 @@ ship "Kimek Spire"
 		"Large Steering Module" 2
 		"Small Steering Module"
 		"Hyperdrive"
-		"Solar Drive, Small, Front" 2
-		"Solar Drive, Huge, Front" 4
+		"Solar Drive, Small, Front"
+		"Solar Drive, Huge, Front" 2
 
 ship "Kimek Thistle"
 	outfits
@@ -117,7 +112,6 @@ ship "Kimek Thistle"
 		"Hyperdrive"
 		"Solar Drive, Small, Front" 2
 		"Solar Drive, Large, Front" 2
-		"Solar Drive, Huge, Front"
 
 ship "Kimek Thorn"
 	outfits
@@ -128,7 +122,7 @@ ship "Kimek Thorn"
 		"Small Thrust Module" 2
 		"Small Steering Module" 2
 		"Hyperdrive"
-		"Solar Drive, Large, Front" 2
+		"Solar Drive, Large, Front"
 
 ship "Saryd Runabout"
 	outfits
@@ -139,7 +133,7 @@ ship "Saryd Runabout"
 		"Small Thrust Module" 2
 		"Small Steering Module" 3
 		"Hyperdrive"
-		"Solar Drive, Large, Front" 2
+		"Solar Drive, Large, Front"
 
 ship "Saryd Sojourner"
 	outfits
@@ -154,8 +148,8 @@ ship "Saryd Sojourner"
 		"Large Steering Module" 2
 		"Small Steering Module"
 		"Hyperdrive"
-		"Solar Drive, Large, Front"
-		"Solar Drive, Huge, Front" 3
+		"Solar Drive, Large, Front" 2
+		"Solar Drive, Huge, Front"
 
 ship "Saryd Traveler"
 	outfits
@@ -169,9 +163,9 @@ ship "Saryd Traveler"
 		"Large Steering Module"
 		"Small Steering Module"
 		"Hyperdrive"
-		"Solar Drive, Small, Front" 2
-		"Solar Drive, Large, Front" 2
-		"Solar Drive, Huge, Front" 2
+		"Solar Drive, Small, Front"
+		"Solar Drive, Large, Front"
+		"Solar Drive, Huge, Front"
 
 ship "Saryd Visitor"
 	outfits
@@ -183,6 +177,4 @@ ship "Saryd Visitor"
 		"Small Thrust Module" 3
 		"Large Steering Module"
 		"Hyperdrive"
-		"Solar Drive, Small, Front"
-		"Solar Drive, Large, Front"
-		"Solar Drive, Huge, Front"
+		"Solar Drive, Large, Front" 2
